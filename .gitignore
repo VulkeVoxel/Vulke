@@ -1,0 +1,18 @@
+# Odin toolchain
+/tools/odin.zip
+/tools/odin-pkg/
+
+# Shader helper build output
+/tools/spv/target/
+
+# Build artifacts
+/vulke.exe
+*.exe
+*.pdb
+*.ilk
+*.obj
+
+# Scratch
+*.log
+Thumbs.db
+.DS_Store
